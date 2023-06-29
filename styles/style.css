@@ -1,6 +1,6 @@
 @font-face {
     font-family: roboto;
-    src: url(/fonts/Roboto-Regular.ttf);
+    src: url(/sunset-theme-website/fonts/Roboto-Regular.ttf);
 }
 
 html {
@@ -39,7 +39,7 @@ nav ul li a {
 .bg {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), url(/img/bg.gif);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), url(/sunset-theme-website/img/bg.gif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -131,7 +131,7 @@ footer {
 .bgf {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url(/img/bgf.gif);
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url(/sunset-theme-website/img/bgf.gif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
